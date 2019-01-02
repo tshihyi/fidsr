@@ -2664,7 +2664,7 @@
 }
 #u218 {
   position:absolute;
-  left:490px;
+  left:486px;
   top:251px;
   visibility:hidden;
 }
@@ -2874,7 +2874,7 @@
 }
 #u234 {
   position:absolute;
-  left:490px;
+  left:484px;
   top:251px;
   visibility:hidden;
 }
@@ -3012,6 +3012,7 @@
   top:0px;
   width:199px;
   height:25px;
+  background-color:#F2F2F2;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
